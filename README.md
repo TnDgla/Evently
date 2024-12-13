@@ -130,11 +130,11 @@ This project is structured to ensure a smooth, step-by-step approach to developm
 #### **Week 2: Event Creation and Validation**
 - **Tasks:**
   1. Create **event creation forms** with validation.
-     - **Reading**: [React Forms Documentation](https://reactjs.org/docs/forms.html)
-     - **Video**: [Form Handling in React](https://www.youtube.com/watch?v=JmZJkZyC6ts)
+     - **Reading**: [React Forms Documentation](https://react.dev/reference/react-dom/components/form)
+     - **Video**: [Form Handling in React](https://www.youtube.com/watch?v=SdzMBWT2CDQ&t=320s)
   2. Implement backend routes for event data storage.
      - **Reading**: [Express Routing](https://expressjs.com/en/guide/routing.html)
-     - **Video**: [API Routing in Express](https://www.youtube.com/watch?v=pgpFFLCk6Lg)
+     - **Video**: [API Routing in Express](https://www.youtube.com/watch?v=0Hu27PoloYw)
 
 - **Deliverables:**
   - Event creation form with proper validation and error handling.
@@ -144,11 +144,11 @@ This project is structured to ensure a smooth, step-by-step approach to developm
 #### **Week 3: Event Management Dashboard**
 - **Tasks:**
   1. Create a **dashboard** to manage events.
-     - **Reading**: [Managing State in React](https://reactjs.org/docs/state-and-lifecycle.html)
-     - **Video**: [State Management in React](https://www.youtube.com/watch?v=35lXWvCuM8o)
+     - **Reading**: [Managing State in React](https://react.dev/learn/managing-state)
+     - **Video**: [State Management in React](https://www.youtube.com/watch?v=-bEzt5ISACA&t=200s)
   2. Implement **MongoDB integration** to fetch event data.
      - **Reading**: [MongoDB with Node.js](https://mongoosejs.com/docs/index.html)
-     - **Video**: [MongoDB and Node.js Tutorial](https://www.youtube.com/watch?v=kWdeVdVZ8Ew)
+     - **Video**: [MongoDB and Node.js Tutorial](https://www.youtube.com/watch?v=DZBGEVgL2eE&t=30s)
 
 - **Deliverables:**
   - A dashboard displaying events with CRUD functionality.
@@ -174,7 +174,7 @@ This project is structured to ensure a smooth, step-by-step approach to developm
      - **Video**: [Testing APIs with Postman](https://www.youtube.com/watch?v=VywxIQ2ZXw4)
   2. Deploy the frontend and backend to **Vercel** and **Heroku**.
      - **Reading**: [Deploying on Heroku](https://devcenter.heroku.com/articles/deploying-nodejs)
-     - **Video**: [Full-Stack App Deployment](https://www.youtube.com/watch?v=WA4djj2BjDc)
+     - **Video**: [Full-Stack App Deployment](https://www.youtube.com/watch?v=b2bIdtSwDhc&t=339s)
 
 - **Deliverables:**
   - Fully deployed application with public URL.
