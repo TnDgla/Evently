@@ -1,8 +1,4 @@
-
----
-
-# **Evently: Simplifying Event Planning**
-
+# Evently: Simplifying Event Planning
 This project involves building an event planning application using the **MERN stack** (MongoDB, Express.js, React, and Node.js). The app includes features such as user authentication, event creation, event management, and real-time notifications. This project provides a comprehensive understanding of full-stack development while enabling participants to create an interactive and efficient event management system.
 
 ---
